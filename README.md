@@ -22,7 +22,11 @@ print("Exponentiation of a given number:",x)
 ```
 
 ## Output:
+<<<<<<< HEAD
 ![exponentiation of a number](exponent.png)
+=======
+![exponentiation of a number](./exponent.png)
+>>>>>>> 37cb4c20637bfc825e811835c4b741e069bbfe5b
 
 
 ## Result:
